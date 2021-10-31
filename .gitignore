@@ -1,2 +1,9 @@
 core/model/
 .idea
+
+main_test_func.py
+core_makeup/tensorboard/
+core_makeup/imgs/cele/
+core_makeup/imgs/check/
+
+cartoonized_images/

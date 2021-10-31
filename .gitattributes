@@ -1,0 +1,1 @@
+core_makeup/model/** filter=lfs diff=lfs merge=lfs -text
