@@ -1,4 +1,5 @@
 core/model/
+source_frame/
 .idea
 
 main_test_func.py

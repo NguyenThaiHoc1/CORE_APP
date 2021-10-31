@@ -4,7 +4,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent.parent
 
 MODEL_PATH = BASE_DIR / 'core' / 'model'
 
-SOURCE_FRAME = BASE_DIR / 'source_frame'
+SOURCE_FRAME = BASE_DIR / 'data'
 
 CARTOON_IMAGE = BASE_DIR / 'cartoonized_images'
 
